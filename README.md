@@ -1,5 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+- 👋 Hi, I’m @Keerthana
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently learning Backend Specialization Java
+- 💞️ I’m looking to collaborate on backened java 
+- 📫 How to reach me keerthanav019@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
