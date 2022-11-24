@@ -1,5 +1,4 @@
-![MasterHead](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRobWllrWdma2U.jpg)]
-<h1 align="center">Hi 👋, I'm Keerthana V</h1>
+![MasterHead](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRobWllrWdma2U.jpg)<h1 align="center">Hi 👋, I'm Keerthana V</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.uh.edu/research/_images/sites/hpe-dsi/news/2020/girls-coding-academy-flyer-2020-8.5x11_uh-branding-cropped.jpg">
 
