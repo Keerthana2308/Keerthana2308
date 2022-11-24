@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Keerthana V</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.uh.edu/research/_images/sites/hpe-dsi/news/2020/girls-coding-academy-flyer-2020-8.5x11_uh-branding-cropped.jpg">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthana2308" alt="keerthana2308" /></a> </p>
 
 - 🔭 I’m currently working on **Automation Tool Tosca**
 
@@ -27,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthana2308&show_icons=true&locale=en" alt="keerthana2308" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana2308&" alt="keerthana2308" /></p>
+
